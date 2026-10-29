@@ -42,19 +42,6 @@ Update the product categories and descriptions to match the actual shop. The cur
 ## Images
 
 This prototype uses image URLs hosted by Unsplash. An internet connection is required to load them. Before production use, verify each image and its licence/usage terms, or replace the URLs with approved local image assets inside `assets/`.
-
-## Deploy to Vercel
-
-1. Create a Git repository and add the project files.
-2. Push the repository to GitHub.
-3. Sign in to Vercel and select **Add New → Project**.
-4. Import the GitHub repository.
-5. As this is a static HTML site, no framework or build command is needed.
-6. Set the output directory to the project root if prompted.
-7. Deploy and test the published URL on desktop and mobile.
-
-You can also deploy through Vercel CLI from the project directory if you already have Node.js and the Vercel CLI installed.
-
 ## Important prototype notes
 
 - This is a showcase website, not an e-commerce store.
